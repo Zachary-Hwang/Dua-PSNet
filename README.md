@@ -17,9 +17,9 @@ The experiment B
 
 # Well trained model
 The experiment A
-https://drive.google.com/file/d/1GU94iMyCi8s5-bfHOL5PB3OUhK2_npOu/view?usp=drive_link
+https://drive.google.com/file/d/1GU94iMyCi8s5-bfHOL5PB3OUhK2_npOu/view?usp=drive_link.
 The experiment B
-https://drive.google.com/file/d/1FW4wbnI2cFjMlBSNNQVjBe_QMBgyDlud/view?usp=drive_link
+https://drive.google.com/file/d/1FW4wbnI2cFjMlBSNNQVjBe_QMBgyDlud/view?usp=drive_link.
 
 # Acknowledgement
 We are very grateful for these excellent works FCBFormer, SSFormer and Polyp-PVT, which have provided the basis for our framework.
