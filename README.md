@@ -1,7 +1,7 @@
 # Dua-PSNet
 by Feng Li, Zetao Huang, Lu Zhou, Yuyang Chen, Shiqing Tang, Pengchao Ding, Haixia Peng, Yimin Chu.
 
-The code for the "Improved Dual-Aggregation Polyp Segmentation Network Combining Pyramid Vision Transformer with FCN." is coming ...
+The code for the "Improved Dual-Aggregation Polyp Segmentation Network Combining Pyramid Vision Transformer with FCN." is coming soon.
 
 # Overall Architecture
 ![Fig 1a](https://github.com/Zachary-Hwang/Dua-PSNet/assets/36326745/6c634e8e-364e-4efa-ae3c-e47a5a9ec458)
@@ -16,10 +16,9 @@ The experiment B
 ![$M0ZHC0I}LI{KM(ZB5 2{D1](https://github.com/Zachary-Hwang/Dua-PSNet/assets/36326745/6dfdf8a7-88c4-4e7a-8501-71ab1e0f7c4a)
 
 # Well trained model
-The experiment A
-https://drive.google.com/file/d/1GU94iMyCi8s5-bfHOL5PB3OUhK2_npOu/view?usp=drive_link.
-The experiment B
-https://drive.google.com/file/d/1FW4wbnI2cFjMlBSNNQVjBe_QMBgyDlud/view?usp=drive_link.
+The experiment A well trained model is available at.
+The experiment B well trained model is available at.
+
 
 # Acknowledgement
 We are very grateful for these excellent works FCBFormer, SSFormer and Polyp-PVT, which have provided the basis for our framework.
