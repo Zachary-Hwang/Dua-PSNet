@@ -15,10 +15,3 @@ The experiment B
 ![IW H_USOA8M5SL_L~}5H0(7](https://github.com/Zachary-Hwang/Dua-PSNet/assets/36326745/efd1a25b-cd5d-4c4f-a072-a2eafff8c4d2)
 ![$M0ZHC0I}LI{KM(ZB5 2{D1](https://github.com/Zachary-Hwang/Dua-PSNet/assets/36326745/6dfdf8a7-88c4-4e7a-8501-71ab1e0f7c4a)
 
-# Well trained model
-The experiment A well trained model is available at.
-The experiment B well trained model is available at.
-
-
-# Acknowledgement
-We are very grateful for these excellent works FCBFormer, SSFormer and Polyp-PVT, which have provided the basis for our framework.
