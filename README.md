@@ -8,7 +8,8 @@ The code for the "Improved Dual-Aggregation Polyp Segmentation Network Combining
 
 # Results
 The experiment A
-![DF{M F_VG4)X0BB F){7HP1](https://github.com/Zachary-Hwang/Dua-PSNet/assets/36326745/e474eef5-b43f-435a-a954-80e20aeea337)
+<img width="345" alt="de687b0509928f7c99118f259827b60" src="https://github.com/Zachary-Hwang/Dua-PSNet/assets/36326745/7f16af3b-86b4-436d-90a9-a91ae602cd62">
+
 <img width="3013" alt="Fig 7" src="https://github.com/Zachary-Hwang/Dua-PSNet/assets/36326745/6f9d77f9-1a0a-44c1-b5ec-4f8bf645dde4">
 The experiment B
 ![}W4BL}SZN9}`5VY2G`XTTYI](https://github.com/Zachary-Hwang/Dua-PSNet/assets/36326745/d435b30a-286f-4f6f-bcdf-c5b06736293c)
